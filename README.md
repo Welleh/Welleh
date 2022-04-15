@@ -7,10 +7,13 @@
 
 - 📫 How to reach me **wisansal@gmail.com**
 
+- 📄 Know about my experiences [linkedin.com/in/bernardo-willy-sanchez/](https://www.linkedin.com/in/bernardo-willy-sanchez/)
+
 - ⚡ Fun fact **I'm a musician and gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/bernardo-willy-sanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bernardo-willy-sanchez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
